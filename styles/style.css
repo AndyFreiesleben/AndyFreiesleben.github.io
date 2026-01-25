@@ -1,0 +1,126 @@
+html {
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+    background-color: #BDBDBD;
+}
+
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: #000000;
+}
+
+h2 {
+	font-size: 17px;
+  text-align: left;
+  color: black;
+  font-weight: normal;
+}
+
+ul {
+  font-size: 17px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+li{
+	margin-left: 2%;
+}
+
+div {
+  text-align: center;
+}
+
+
+button {
+  background-color: #00994c;
+  border: 1px solid black;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  border-radius: 3px;
+}
+
+button:hover {
+	background-color:  #888888;
+	cursor: pointer;
+}
+
+
+#scholarIm:hover{
+	cursor: pointer;
+}
+
+button:focus{
+	background-color:  #888888;
+}
+
+iframe{
+	border:  2px solid black;
+}
+
+
+
+
+head {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+
+nav {
+  left: 0;
+  width: 100%;
+}
+
+table {
+ text-align: center;
+ border-color: #BDBDBD;
+ border-radius: 3px;
+ border-width: 3px;
+}
+
+
+td{
+	border-color: #f90100;
+	 padding: 8px;
+}
+
+body {
+	  width: 60%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a:link {
+  color: #00994c;
+  text-decoration: none; 
+}
+
+a:visited {
+  color: #888888;
+  text-decoration: none; 
+}
+
+a:hover {
+	color:  #BBBBBB;
+	text-decoration: none; 
+  cursor: pointer;
+}
